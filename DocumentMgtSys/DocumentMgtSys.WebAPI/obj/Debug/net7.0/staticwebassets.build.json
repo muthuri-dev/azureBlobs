@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gXZjTLAXNtDmr/gn+akuqmokGbngZFjqRzTaWuKCdZg=",
+  "Source": "DocumentMgtSys.WebAPI",
+  "BasePath": "_content/DocumentMgtSys.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

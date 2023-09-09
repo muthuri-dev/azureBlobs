@@ -1,0 +1,12 @@
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/bin/Debug/net7.0/DocumentMgtSys.DataStore.deps.json
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/bin/Debug/net7.0/DocumentMgtSys.DataStore.dll
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/bin/Debug/net7.0/DocumentMgtSys.DataStore.pdb
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/obj/Debug/net7.0/DocumentMgtSys.DataStore.csproj.AssemblyReference.cache
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/obj/Debug/net7.0/DocumentMgtSys.DataStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/obj/Debug/net7.0/DocumentMgtSys.DataStore.AssemblyInfoInputs.cache
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/obj/Debug/net7.0/DocumentMgtSys.DataStore.AssemblyInfo.cs
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/obj/Debug/net7.0/DocumentMgtSys.DataStore.csproj.CoreCompileInputs.cache
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/obj/Debug/net7.0/DocumentMgtSys.DataStore.dll
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/obj/Debug/net7.0/refint/DocumentMgtSys.DataStore.dll
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/obj/Debug/net7.0/DocumentMgtSys.DataStore.pdb
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/obj/Debug/net7.0/ref/DocumentMgtSys.DataStore.dll

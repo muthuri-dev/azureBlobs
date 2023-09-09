@@ -1,0 +1,12 @@
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/bin/Debug/net7.0/DocumentMgtSys.Core.deps.json
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/bin/Debug/net7.0/DocumentMgtSys.Core.dll
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/bin/Debug/net7.0/DocumentMgtSys.Core.pdb
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/obj/Debug/net7.0/DocumentMgtSys.Core.csproj.AssemblyReference.cache
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/obj/Debug/net7.0/DocumentMgtSys.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/obj/Debug/net7.0/DocumentMgtSys.Core.AssemblyInfoInputs.cache
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/obj/Debug/net7.0/DocumentMgtSys.Core.AssemblyInfo.cs
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/obj/Debug/net7.0/DocumentMgtSys.Core.csproj.CoreCompileInputs.cache
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/obj/Debug/net7.0/DocumentMgtSys.Core.dll
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/obj/Debug/net7.0/refint/DocumentMgtSys.Core.dll
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/obj/Debug/net7.0/DocumentMgtSys.Core.pdb
+/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.Core/obj/Debug/net7.0/ref/DocumentMgtSys.Core.dll

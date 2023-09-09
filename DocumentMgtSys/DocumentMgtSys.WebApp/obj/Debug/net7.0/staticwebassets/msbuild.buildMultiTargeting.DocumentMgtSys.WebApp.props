@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DocumentMgtSys.WebApp.props" />
+</Project>

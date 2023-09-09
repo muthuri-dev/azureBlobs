@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cbOTomYA3eSjNxX4smYVn2fnQAKoNq1XUMI9BaRWMQImrKPvrNJLfDZJpWAcPGlDUBNNU/ilJKJZi/tu6i7Gow==",
+  "success": true,
+  "projectFilePath": "/home/kennedy_muthuri/Applantus/DocumentManagementSystem/DocumentMgtSys/DocumentMgtSys.DataStore/DocumentMgtSys.DataStore.csproj",
+  "expectedPackageFiles": [
+    "/home/kennedy_muthuri/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
